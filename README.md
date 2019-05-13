@@ -6,7 +6,7 @@ Buckyball Mult Language Study System   (BMLSS)
 
 (Java kotlin groovy android)  (dart flutter) (oc swift)
 
-语言系
+## 目前准备学习的语言
 
 |Java | Kotlin | Dart | Groovy | python | JS | PHP | C | C++ | Swift |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|:----|
